@@ -107,6 +107,7 @@ resource_fields:
       - kmz
       - shp
       - xml
+      - zip
 
 organization_fields:
   - field_name: title

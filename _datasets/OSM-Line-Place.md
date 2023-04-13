@@ -6,8 +6,8 @@ notes: A dataset encoding information about line places following Open Street Ma
 resources:
   - name: OSM Line Place dataset
     url: >-
-      https://drive.google.com/file/d/1mSIBHgKJBw07crEjMTYEi3ylpPL-62fB/view?usp=sharing
-    format: ''
+      https://drive.google.com/file/d/1G2Xx5kFWwzilg9-WFCNPNHq5_vq_xpuW/view?usp=share_link
+    format: zip
 license: ''
 category:
   - Society and Territory
