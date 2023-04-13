@@ -19,7 +19,7 @@ publisher: DataScientia Foundation
 owner: DataScientia Foundation
 validator: Simone Bocca
 keyword: 'Space, Geography, Trentino'
-domain: Trento (Italy)
+domain: Trentino (Italy)
 language: English
 issue_datetime: ''
 modification_datetime: 04/04/2023, 01:28

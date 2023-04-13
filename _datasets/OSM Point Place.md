@@ -4,7 +4,7 @@ title: OSM Point Place
 organization: DataScientia Foundation
 notes: A dataset encoding information about point places following Open Street Maps.
 resources:
-  - name: OSM Line Point dataset
+  - name: OSM Point Place dataset
     url: >-
       https://drive.google.com/file/d/1G2Xx5kFWwzilg9-WFCNPNHq5_vq_xpuW/view?usp=share_link
     format: zip
@@ -19,7 +19,7 @@ publisher: DataScientia Foundation
 owner: DataScientia Foundation
 validator: Simone Bocca
 keyword: 'Space, Geography, Trentino'
-domain: Trento (Italy)
+domain: Trentino (Italy)
 language: English
 issue_datetime: ''
 modification_datetime: 04/04/2023, 01:14
