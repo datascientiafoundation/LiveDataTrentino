@@ -1,10 +1,10 @@
 ---
 schema: default
-title: OSM Line Place
+title: OSM Polygon Place
 organization: DataScientia Foundation
-notes: A dataset encoding information about line places following Open Street Maps.
+notes: A dataset encoding information about Polygon places following Open Street Maps.
 resources:
-  - name: OSM Line Place dataset
+  - name: OSM Polygon Place dataset
     url: >-
       https://drive.google.com/file/d/1G2Xx5kFWwzilg9-WFCNPNHq5_vq_xpuW/view?usp=share_link
     format: zip
@@ -22,7 +22,7 @@ keyword: 'Space, Geography, Trentino'
 domain: Trento (Italy)
 language: English
 issue_datetime: ''
-modification_datetime: 04/04/2023, 01:22
+modification_datetime: 04/04/2023, 01:28
 reference_lightweight_ontology: >-
   <a
   href="https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/">https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/</a>
@@ -30,10 +30,10 @@ reference_teleontology: >-
   <a
   href="https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-teleontology/">https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-teleontology/</a>
 reference_domain_language: none
-min_longitude: '10.3001648'
+min_longitude: '10.3000003'
 max_longitude: '12.4999999'
 min_latitude: '45.6000001'
-max_latitude: '47.0999953'
+max_latitude: '47.0996128'
 temporal_extent: 'to 1st of Feburary, 2023'
 generating_activity: DataScientia LiveData Catalog Instantiation
 ---
