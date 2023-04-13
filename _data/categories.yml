@@ -2,7 +2,7 @@
   logo: /img/categories/education.svg
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
-- name: Environment
+- name: Society and Territory
   logo: /img/categories/environment.svg
   featured: true
 - name: Health
@@ -13,3 +13,4 @@
   logo: /img/categories/transportation.svg
   logo_credit: Dmitry Baranovskiy from the Noun Project
   featured: true
+
