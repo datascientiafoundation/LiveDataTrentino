@@ -8,7 +8,7 @@ resources:
     url: >-
       https://drive.google.com/file/d/1G2Xx5kFWwzilg9-WFCNPNHq5_vq_xpuW/view?usp=share_link
     format: zip
-license: ''
+license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
   - Society and Territory
 maintainer: Simone Bocca
@@ -22,7 +22,7 @@ keyword: 'Space, Geography, Trentino'
 domain: Trentino (Italy)
 language: English
 issue_datetime: unknown
-modification_datetime: 04/04/2023, 01:14
+modification_datetime: '04/04/2023, 01:14'
 reference_lightweight_ontology: >-
   <a
   href="https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/">https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-lightweight-ontology/</a>
