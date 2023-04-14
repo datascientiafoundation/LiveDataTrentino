@@ -21,7 +21,7 @@ validator: Simone Bocca
 keyword: 'Space, Geography, Trentino'
 domain: Trentino (Italy)
 language: English
-issue_datetime: ''
+issue_datetime: unknown
 modification_datetime: 04/04/2023, 01:28
 reference_lightweight_ontology: >-
   <a
@@ -29,7 +29,7 @@ reference_lightweight_ontology: >-
 reference_teleontology: >-
   <a
   href="https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-teleontology/">https://datascientiafoundation.github.io/LiveKnowledge/datasets/osm-teleontology/</a>
-reference_domain_language: none
+reference_domain_language: unknown
 min_longitude: '10.3000003'
 max_longitude: '12.4999999'
 min_latitude: '45.6000001'

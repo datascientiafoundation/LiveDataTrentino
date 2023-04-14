@@ -1,6 +1,6 @@
 title: LiveDataTrentino
-greeting: DataScientia LiveData Trentino Catalog
-description: This is a template, provided by DataScientia Foundation, for the creation of a Data Catalog to be part of the DataScientia community.
+greeting: LiveData Trentino Catalog
+description: The LiveData Trentino catalog collects and shares datasets about the Trentino region (autonomous province of Trentino, Italy). The catalog provides data about the Trentino geography, as well as data about Trentino's society, like transportation, points of interest, facilities, and others. The LiveData Trentino catalog is part of the DataScientia Open Data Space. The data shared by the catalog are compliant with the quality criteria defined by DataScientia, moreover they are highly reusable and composable with other data produced following the DataScientia guidelines (more in detail, adopting the iTelos methodology).
 baseurl: /LiveDataTrentino
 logo: /img/LD-trentino.png
 
