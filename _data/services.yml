@@ -1,4 +1,4 @@
-- name: TestService
-  logo: /img/categories/arts-culture-history.svg
+- name: Compositional<br>Download
+  logo: /img/services-logo/comp.png
   featured: true
-  url:
+  url: compositional_download
