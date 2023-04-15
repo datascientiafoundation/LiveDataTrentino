@@ -6,7 +6,7 @@ notes: This dataset describes the places with point geography feature in Trentin
 resources:
   - name: OSM Point Place dataset
     url: >-
-      https://drive.google.com/file/d/1G2Xx5kFWwzilg9-WFCNPNHq5_vq_xpuW/view?usp=share_link
+      https://drive.google.com/file/d/1_wn5NJ_z6s4Q8jBkTJmsy14rgNfWbqnm/view?usp=share_link
     format: zip
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:

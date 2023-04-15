@@ -6,7 +6,7 @@ notes: This dataset describes the places with line geography feature in Trentino
 resources:
   - name: OSM Line Place dataset
     url: >-
-      https://drive.google.com/file/d/1G2Xx5kFWwzilg9-WFCNPNHq5_vq_xpuW/view?usp=share_link
+      https://drive.google.com/file/d/1bJSn6ewPVybvoS_aZMYqzY1v_4Qx5I9O/view?usp=share_link
     format: zip
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:

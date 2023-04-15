@@ -6,7 +6,7 @@ notes: This dataset describes the places with polygon geography feature in Trent
 resources:
   - name: OSM Polygon Place dataset
     url: >-
-      https://drive.google.com/file/d/1G2Xx5kFWwzilg9-WFCNPNHq5_vq_xpuW/view?usp=share_link
+      https://drive.google.com/file/d/1dT1hd8Ci3GX_OwprM_mocMutpXTvOz9e/view?usp=share_link
     format: zip
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
