@@ -22,6 +22,8 @@ import ViewSwitcher from './components/view-switcher'
 import ThemeGallery from './components/theme-gallery'
 import {queryByComponent, setParams} from './util'
 
+import 'dotenv/config'
+
 const params = $.deparam(window.location.search.substr(1))
 
 // Initialize user
